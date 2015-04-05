@@ -6,7 +6,7 @@ Displays a list of recent photos from your Flickr account.
 # Install
 
 1. Create a new API key: https://www.flickr.com/services/apps/create/apply/
-2. Find your Flickr User ID: https://www.flickr.com/services/api/explore/flickr.people.getInfo 
+2. Find your Flickr User ID: http://idgettr.com/
 3. Copy the plugin file/folder the plugins directory of your Pico site.
 4. Open the Pico config.php and add these settings (See [Flickr API documentation](https://www.flickr.com/services/api/flickr.photos.search.html) for more options):
    <pre>$config['custom_flickr_values'] = array(
